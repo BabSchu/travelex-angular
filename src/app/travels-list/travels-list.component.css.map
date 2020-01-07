@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAKA,AAAA,QAAQ,CAAC;EACL,gBAAgB,EANJ,OAAO;CAMgB;;AAEvC,AAAA,UAAU,CAAC;EACP,gBAAgB,EARF,OAAO;CAQgB",
     "sources": [
         "travels-list.component.sass"
     ],

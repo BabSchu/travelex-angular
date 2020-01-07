@@ -11,4 +11,10 @@ a:hover {
           text-decoration: underline #ca8771;
   font-weight: bold;
 }
+
+.btn.focus, .btn:focus {
+  font-weight: bold;
+  -webkit-box-shadow: 0 0 0 0.2rem #ca8771;
+          box-shadow: 0 0 0 0.2rem #ca8771;
+}
 /*# sourceMappingURL=service-card.component.css.map */
